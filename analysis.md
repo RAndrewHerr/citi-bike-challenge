@@ -21,4 +21,10 @@
 ## Visuals and Analysis
 #### For my initial ride 🚲 through the data, I chose to analyze trends in weekday versus weekend ridership; paying special attention to popular start and end stations, subscribers versus customers, common start and end times, total and average trip duration, and a brief glimpse ridership age.
 
+#### My Citi Bike Story uses data from July 2018 and comtains three dashboards. 
+
 ![Screen Shot 2023-05-19 at 10 54 48 PM](https://github.com/therahgithub/citi-bike-challenge/assets/119986667/f02cebcc-bbdc-4e1e-94f0-44680d636184)
+
+#### Weekday bike stats: During the week, commuters rule the bikes. The most common start and end times coincide with the classic 9-5 work schedule, subscribers far outpace customers in number of rides, and a closer look at popular start and end stations is additional evidence of heavy commuter utilization of the bike program during the week.
+
+#### The most popular start stations and end stations are Pershing Square North, E17th & Broadway, and West St & Chambers St. Pershing Square North is home to Grand Central Station. Heavy flow from this bike station no doubt are commuters continuing on to work after arriving to and traveling from this iconic travel hub. The E17th & Broadway station is right in the middle of large residential neighborhoods such as the Flatiron District to the north, Chelsea to the west, Greenwich Village to the southwest, East Village to the southeast, and Gramercy Park. Users of this station likely are traveling between work and home.  
