@@ -53,3 +53,9 @@ When broken down by age, users born in 1969 leave all others in the dust with av
 
 <img width="1071" alt="Screen Shot 2023-05-20 at 1 31 54 AM" src="https://github.com/therahgithub/citi-bike-challenge/assets/119986667/e904d42f-9b1b-40cc-9c0a-eee636425f8c">
 <img width="1099" alt="Screen Shot 2023-05-20 at 1 33 16 AM" src="https://github.com/therahgithub/citi-bike-challenge/assets/119986667/17046bc5-115e-4512-b3d7-0733d4508520">
+
+#### Resources
+
+* [Citi Bike Data](https://citibikenyc.com/system-data)
+* [Citi Bike Data - July 2018](https://s3.amazonaws.com/tripdata/201807-citibike-tripdata.csv.zip)
+* [USA Cycling Demographics Survey 2020 Results](https://s3.amazonaws.com/usac-craft-uploads-production/documents/Demographics-Report-2020.pdf)
