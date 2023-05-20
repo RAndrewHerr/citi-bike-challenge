@@ -59,3 +59,7 @@ When broken down by age, users born in 1969 leave all others in the dust with av
 * [Citi Bike Data](https://citibikenyc.com/system-data)
 * [Citi Bike Data - July 2018](https://s3.amazonaws.com/tripdata/201807-citibike-tripdata.csv.zip)
 * [USA Cycling Demographics Survey 2020 Results](https://s3.amazonaws.com/usac-craft-uploads-production/documents/Demographics-Report-2020.pdf)
+
+#### Tableau Public Workbook
+
+[Citi Bike Story: Weekday vs. Weekend (July 2018)](https://public.tableau.com/views/CitiBikeChallenge_16845494833610/CitiBikeStory-Weekdayvs_WeekendJuly2018?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
