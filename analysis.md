@@ -31,18 +31,18 @@
 #### The most popular start and end stations are Pershing Square North, E17th & Broadway, and West St & Chambers St. 
  * Pershing Square North is home to Grand Central Station. Heavy flows to and from this bike station no doubt are commuters continuing on to work after arriving to and traveling from this iconic hub. 
  * The E17th & Broadway station is right in the middle of the residential neighborhoods of Union Square and the surrounding Flatiron District to the north, Chelsea to the west, Greenwich Village to the southwest, East Village to the southeast, and Gramercy Park. Users of this station likely are traveling between work and home. 
- * The West St and Chambers St area includes commuter destinations like, municipal buildings, couthouses, law firms, etc. Examples are: The Manhattan Muncipal Building, the Tweed Courthouse, and New York City Hall. 
+ * The West St and Chambers St area includes commuter destinations like, municipal buildings, couthouses, law firms, etc. Examples are: The Manhattan Muncipal Building, the Tweed Courthouse, and New York City Hall. The area around this station also includes Battery Park and its large residential neighborhood. So I expect riders from this area to be commuting to and from work.
 
 ### Weekend bike stats:
 ![Screen Shot 2023-05-20 at 12 59 30 AM](https://github.com/therahgithub/citi-bike-challenge/assets/119986667/9178771b-82d9-44ba-911c-e5dc29701b0e)
 
 #### The weekends tell a more leasurely story. The most common start and end times peak between 1PM and 5; while relatively low at all other hours. In regards to ride count, customers outpace subscribers at the more popular stations, but subscribers maintain the highest frequency overall.
 
-#### The most popular start and end stations are cultural and recreational centers with parks, museums, theaters, restaurants, etc.
- * Grand Army Plaza & Central Park South (start only, did not make the top 10 of end stations)
- * West St & Chambers St
- * 12th Ave and 40th St
- * Central Park South and 6th Ave
+#### The most popular start and end stations are convenient to cultural and recreational centers, parks, museums, theaters, restaurants, etc.
+ * Grand Army Plaza & Central Park South (start only, did not make the top 10 of end stations) is at the foot of the famed Central Park, and roughly equidistant from the Central Park Zoo, 5th Avenue shopping, The Museum of Modern Art, Carnegie Hall, and more.
+ * West St & Chambers St makes its way onto the top weekend stations list, as well. Restaurants, shopping, and the park keep riders going in the popular Battery Park neighborhood.
+ * 12th Ave and 40th St is home to the working-class neighborhood of Hell's Kitchen. Further investigation is necessary to better understand the popularity of this station in weekends.
+ * Central Park South and 6th Ave is just a block away from Grand Army Plaza & Central Park South. Therefore, also at the foot of Central Park, and nearby the Central Park Zoo, 5th Avenue shopping, The Museum of Modern Art, Carnegie Hall, and more.
 
 ### Trip duration stats:
 ![Screen Shot 2023-05-20 at 1 24 29 AM](https://github.com/therahgithub/citi-bike-challenge/assets/119986667/fb16b405-2363-4a69-90a4-13f05847234c)
